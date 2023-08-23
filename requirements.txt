@@ -2,5 +2,5 @@ numpy~=1.25.2
 streamlit~=1.25.0
 keras~=2.13.1
 opencv-contrib-python-headless
-tensorflow-cpu
-streamlit_webrtc
+tensorflow-cpu~=2.13.0
+streamlit_webrtc~=0.45.1
